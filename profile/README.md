@@ -26,7 +26,3 @@ Welcome to the MPC Lab organization! We are dedicated to providing powerful tool
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
-
-## Contributing
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate. Check the CONTRIBUTING.md file for more details.
